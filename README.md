@@ -3,11 +3,11 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue.js)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=js)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=quasar)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss)
 <!--
 **Sindhani/sindhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
