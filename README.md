@@ -1,6 +1,6 @@
 ## Hi there 👋
-
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
+# Things I use on a daily basis
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=000000)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue.js)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript)
