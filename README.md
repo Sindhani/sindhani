@@ -1,10 +1,7 @@
-## Hi there 👋
-## I'm Waheed sindhani
+## Hi there 👋, I'm Waheed sindhani
 ### Full Stack Developer
-### Highly skilled Full Stack Developer with over 6 years of extensive experience in developing and maintaining
-robust web applications using Laravel, Vue.js, and other modern technologies. Adept at collaborating with
-cross-functional teams to deliver high-quality software solutions. Proficient in designing and implementing
-complex features, optimizing application performance, and ensuring seamless user experiences.
+### Highly skilled Full Stack Developer with over 6 years of extensive experience in developing and maintaining robust web applications using Laravel, Vue.js, and other modern technologies. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Proficient in designing and implementing complex features, optimizing application performance, and ensuring seamless user experiences. 
+
 ## Things I use on a daily basis
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=000000)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=000000)
