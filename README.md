@@ -5,13 +5,13 @@ Highly skilled Full Stack Developer with over 6 years of extensive experience in
 ## Things I use daily
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=000000&svgfill=2d79c7)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue.js&text=false&fill=000000&svgfill=4FC08D)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel&text=false&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=quasar&text=false&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel&text=false&fill=000000&svgfill=FF2D20)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000000&svgfill=F7DF1E)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&fill=000000&svgfill=4479A1)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=quasar&text=false&fill=000000&svgfill=050A14)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false&fill=000000&svgfill=3178C6)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&fill=000000&svgfill=5FA04E)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false&fill=000000&svgfill=06B6D4)
 <!--
 **Sindhani/sindhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
