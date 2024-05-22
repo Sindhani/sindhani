@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vuejs)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vuedotjs)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=js)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql)
