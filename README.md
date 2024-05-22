@@ -1,17 +1,17 @@
 ## Hi there 👋, I'm Waheed sindhani
 ### Full Stack Developer
-### Highly skilled Full Stack Developer with over 6 years of extensive experience in developing and maintaining robust web applications using Laravel, Vue.js, and other modern technologies. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Proficient in designing and implementing complex features, optimizing application performance, and ensuring seamless user experiences. 
+Highly skilled Full Stack Developer with over 6 years of extensive experience in developing and maintaining robust web applications using Laravel, Vue.js, and other modern technologies. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Proficient in designing and implementing complex features, optimizing application performance, and ensuring seamless user experiences. 
 
-## Things I use on a daily basis
+## Things I use daily
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue.js&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=quasar&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=000000)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue.js&text=false&fill=000000&textFill=#4DBC7E)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel&text=false&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=quasar&text=false&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&fill=000000)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false&fill=000000)
 <!--
 **Sindhani/sindhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
