@@ -39,37 +39,35 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-118-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 360 Contributions in the Year 2024
+> 🏆 367 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 43 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13012 commits       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-🌆 Daytime                31062 commits       ██████████████░░░░░░░░░░░   57.33 % 
+🌞 Morning                13017 commits       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+🌆 Daytime                31063 commits       ██████████████░░░░░░░░░░░   57.33 % 
 🌃 Evening                8177 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 🌙 Night                  1927 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   9858 commits        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Monday                   9858 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
 Tuesday                  8777 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
 Wednesday                9109 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-Thursday                 11100 commits       █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Thursday                 11106 commits       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 Friday                   8328 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 Saturday                 5847 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
 Sunday                   1159 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
@@ -82,16 +80,18 @@ Sunday                   1159 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   0 secs              ██████████████████████░░░   89.18 % 
+Blade Template           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+heavenly-hands           0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -111,5 +111,5 @@ TypeScript               3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 22/05/2024 18:44:27 UTC
+ Last Updated on 23/05/2024 18:44:15 UTC
 <!--END_SECTION:waka-->
