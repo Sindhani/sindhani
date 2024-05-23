@@ -4,8 +4,8 @@ Highly skilled Full Stack Developer with over 6 years of extensive experience in
 
 ### Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waheed-sindhani/)](https://www.linkedin.com/in/waheed-sindhani/)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waheed.eliccs@gmail.com)](mailto:waheed.eliccs@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-waheed-sindhani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/waheed-sindhani/)](https://www.linkedin.com/in/waheed-sindhani/)
+[![Gmail Badge](https://img.shields.io/badge/-waheed.eliccs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:waheed.eliccs@gmail.com)](mailto:waheed.eliccs@gmail.com)
 
 ## Things I use daily
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=000000&svgfill=2d79c7)
