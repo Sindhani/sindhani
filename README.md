@@ -17,6 +17,9 @@ Highly skilled Full Stack Developer with over 6 years of extensive experience in
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=typescript&text=false&fill=000000&svgfill=3178C6)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&fill=000000&svgfill=5FA04E)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tailwindcss&text=false&fill=000000&svgfill=06B6D4)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=docker&text=false&fill=000000&svgfill=2496ED)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&fill=000000&svgfill=FCC624)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=amazonaws&text=false&fill=000000&svgfill=232F3E)
 
 
 
