@@ -5,7 +5,7 @@ Highly skilled Full Stack Developer with over 6 years of extensive experience in
 ## Things I use daily
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&fill=000000&svgfill=2d79c7)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=vue.js&text=false&fill=000000&svgfill=4FC08D)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel&text=false&fill=000000&svgfill=FF2D20)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=laravel&text=false&fill=000000&svgfill=FF2D20&animation=spin)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=false&fill=000000&svgfill=F7DF1E)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=mysql&text=false&fill=000000&svgfill=4479A1)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=quasar&text=false&svgfill=050A14&fill=ffffff)
