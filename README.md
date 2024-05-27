@@ -39,13 +39,15 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-157-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 367 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -117,5 +119,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2024 18:45:57 UTC
+ Last Updated on 27/05/2024 18:43:50 UTC
 <!--END_SECTION:waka-->
