@@ -45,13 +45,15 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 385 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -62,16 +64,16 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13046 commits       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-🌆 Daytime                31487 commits       ██████████████░░░░░░░░░░░   57.33 % 
+🌞 Morning                13048 commits       ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+🌆 Daytime                31487 commits       ██████████████░░░░░░░░░░░   57.32 % 
 🌃 Evening                8445 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
 🌙 Night                  1949 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   9977 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Tuesday                  8945 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Monday                   9979 commits        █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Tuesday                  8945 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 Wednesday                9271 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 Thursday                 11260 commits       █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
 Friday                   8448 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
@@ -121,5 +123,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2024 18:46:32 UTC
+ Last Updated on 10/06/2024 18:45:41 UTC
 <!--END_SECTION:waka-->
