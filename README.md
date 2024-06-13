@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Waheed sindhani
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=31&pause=1000&color=00A11F&center=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Waheed+Sindhani)](https://git.io/typing-svg)
 ### Full Stack Developer
 Highly skilled Full Stack Developer with over 6 years of extensive experience in developing and maintaining robust web applications using Laravel, Vue.js, and other modern technologies. Adept at collaborating with cross-functional teams to deliver high-quality software solutions. Proficient in designing and implementing complex features, optimizing application performance, and ensuring seamless user experiences. 
 
