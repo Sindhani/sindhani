@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
+> 🏆 757 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 24 Public Repositories 
@@ -115,5 +117,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 18:52:12 UTC
+ Last Updated on 27/12/2024 18:51:59 UTC
 <!--END_SECTION:waka-->
