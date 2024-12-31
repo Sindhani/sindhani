@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-833%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-842%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,16 +88,24 @@ Sunday                   1253 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   40.80 % 
+Vue.js                   47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+YAML                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Docker                   27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+.env file                21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 4 hrs 29 mins       █████████████████████████   99.77 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+north-shore              2 hrs 20 mins       █████████████░░░░░░░░░░░░   51.95 % 
+BetterBiz-Score-Backend  1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+blog-app                 59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+cheryl-hect-home-care-pro0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -117,5 +125,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 18:55:08 UTC
+ Last Updated on 31/12/2024 18:52:35 UTC
 <!--END_SECTION:waka-->
