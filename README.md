@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -115,5 +117,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2025 18:59:58 UTC
+ Last Updated on 29/03/2025 18:53:50 UTC
 <!--END_SECTION:waka-->
