@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
+> 🏆 37 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 25 Public Repositories 
@@ -86,24 +88,16 @@ Sunday                   1299 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PHP                      2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
-TypeScript               2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Vue.js                   1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Blade Template           1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-CSS                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 8 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-dealzter-api             4 hrs 41 mins       █████████████░░░░░░░░░░░░   52.82 % 
-dealzter                 4 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.28 % 
-dienstleisto-web         2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
-optimum-homecare         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-cheryl-hect-home-care-pro0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 hrs 52 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -123,5 +117,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2025 18:57:01 UTC
+ Last Updated on 03/05/2025 18:53:24 UTC
 <!--END_SECTION:waka-->
