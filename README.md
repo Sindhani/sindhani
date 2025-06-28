@@ -45,13 +45,15 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2025
+> 🏆 40 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,7 +65,7 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                13797 commits       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-🌆 Daytime                36534 commits       ██████████████░░░░░░░░░░░   56.35 % 
+🌆 Daytime                36536 commits       ██████████████░░░░░░░░░░░   56.35 % 
 🌃 Evening                11422 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
 🌙 Night                  3086 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
@@ -75,7 +77,7 @@ Tuesday                  11042 commits       ████░░░░░░░�
 Wednesday                11358 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
 Thursday                 13317 commits       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 Friday                   10071 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Saturday                 6238 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Saturday                 6240 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 Sunday                   1302 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 ```
 
@@ -115,5 +117,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2025 18:58:46 UTC
+ Last Updated on 28/06/2025 18:57:14 UTC
 <!--END_SECTION:waka-->
