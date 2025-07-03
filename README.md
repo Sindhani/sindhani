@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C045%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,16 +88,22 @@ Sunday                   1302 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      10 hrs 54 mins      ████████████░░░░░░░░░░░░░   47.72 % 
+Vue.js                   10 hrs 48 mins      ████████████░░░░░░░░░░░░░   47.29 % 
+TypeScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+JavaScript               11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Blade Template           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 22 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+prompt-care              18 hrs 32 mins      ████████████████████░░░░░   81.13 % 
+dienstleisto-web         3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+dienstleisto-api         1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -117,5 +123,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 02/07/2025 18:59:56 UTC
+ Last Updated on 03/07/2025 18:58:30 UTC
 <!--END_SECTION:waka-->
