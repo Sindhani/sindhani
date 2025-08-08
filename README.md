@@ -88,22 +88,16 @@ Sunday                   1329 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PHP                      8 mins              ███████████████████░░░░░░   77.55 % 
-Vue.js                   2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-saudi-demo               10 mins             ████████████████████████░   95.02 % 
-yhp-care                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-the-quality-service      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-external-provider        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-cheryl-hect-home-care-pro0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      11 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -123,5 +117,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2025 19:05:52 UTC
+ Last Updated on 08/08/2025 19:00:57 UTC
 <!--END_SECTION:waka-->
