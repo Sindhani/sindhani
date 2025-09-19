@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C090%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -61,45 +61,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 49 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14000 commits       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-🌆 Daytime                39295 commits       ██████████████░░░░░░░░░░░   56.38 % 
-🌃 Evening                13161 commits       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-🌙 Night                  3240 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   12311 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Tuesday                  12168 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-Wednesday                12409 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Thursday                 14325 commits       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-Friday                   10838 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Saturday                 6316 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Sunday                   1329 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -117,5 +78,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2025 19:03:10 UTC
+ Last Updated on 19/09/2025 19:01:07 UTC
 <!--END_SECTION:waka-->
