@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C098%20hrs%2055%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -61,45 +59,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 49 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                14028 commits       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-🌆 Daytime                39709 commits       ██████████████░░░░░░░░░░░   56.39 % 
-🌃 Evening                13428 commits       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-🌙 Night                  3258 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   12430 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Tuesday                  12336 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-Wednesday                12568 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-Thursday                 14476 commits       █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-Friday                   10958 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Saturday                 6326 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Sunday                   1329 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -117,5 +76,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2025 18:52:30 UTC
+ Last Updated on 28/09/2025 18:53:02 UTC
 <!--END_SECTION:waka-->
