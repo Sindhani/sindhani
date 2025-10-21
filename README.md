@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C110%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,16 +88,24 @@ Sunday                   1329 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      19 hrs 14 mins      █████████████████░░░░░░░░   68.27 % 
+Vue.js                   7 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+TypeScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+Blade Template           15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 28 hrs 11 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+saudi-demo               17 hrs 22 mins      ███████████████░░░░░░░░░░   61.65 % 
+membership-portal        10 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   36.00 % 
+dealzter-api             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+dealzter-ext             12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+dealzter                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      28 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -117,5 +125,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2025 19:00:36 UTC
+ Last Updated on 21/10/2025 19:00:13 UTC
 <!--END_SECTION:waka-->
