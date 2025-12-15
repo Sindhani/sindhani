@@ -117,5 +117,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 13/12/2025 19:01:54 UTC
+ Last Updated on 15/12/2025 19:08:51 UTC
 <!--END_SECTION:waka-->
