@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,16 +88,24 @@ Sunday                   1332 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      16 hrs 26 mins      █████████████░░░░░░░░░░░░   52.33 % 
+Vue.js                   11 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   36.91 % 
+JavaScript               1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+TypeScript               37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Blade Template           32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 31 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+a1-home-care             13 hrs 58 mins      ███████████░░░░░░░░░░░░░░   44.43 % 
+saudi-demo               10 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.38 % 
+optimum-homecare         3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+prompt-care              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+dienstleisto-web         1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      31 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -117,5 +125,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2025 19:11:26 UTC
+ Last Updated on 19/12/2025 19:11:07 UTC
 <!--END_SECTION:waka-->
