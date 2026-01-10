@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C231%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C245%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,16 +88,24 @@ Sunday                   1332 commits        ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      8 hrs 19 mins       █████████████████░░░░░░░░   66.84 % 
+Vue.js                   3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Blade Template           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 12 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+saudi-demo               5 hrs 47 mins       ████████████░░░░░░░░░░░░░   46.52 % 
+cheryl-hect-home-care-pro5 hrs 42 mins       ███████████░░░░░░░░░░░░░░   45.88 % 
+prompt-care              55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+a1-home-care             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+eslint-plugin-translation0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      12 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -117,5 +125,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 19:13:07 UTC
+ Last Updated on 10/01/2026 19:00:17 UTC
 <!--END_SECTION:waka-->
