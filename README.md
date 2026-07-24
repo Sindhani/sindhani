@@ -59,45 +59,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 54 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                16052 commits       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-🌆 Daytime                47134 commits       ██████████████░░░░░░░░░░░   55.61 % 
-🌃 Evening                16920 commits       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-🌙 Night                  4657 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   14550 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Tuesday                  15027 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Wednesday                14810 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Thursday                 17031 commits       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-Friday                   13546 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Saturday                 7714 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-Sunday                   2085 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Karachi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -115,5 +76,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:39:36 UTC
+ Last Updated on 24/07/2026 20:33:56 UTC
 <!--END_SECTION:waka-->
