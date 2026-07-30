@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 691 Contributions in the Year 2026
+> 🏆 692 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -66,21 +66,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16133 commits       █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-🌆 Daytime                47344 commits       ██████████████░░░░░░░░░░░   55.57 % 
-🌃 Evening                16987 commits       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
-🌙 Night                  4729 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+🌞 Morning                15502 commits       █████░░░░░░░░░░░░░░░░░░░░   18.48 % 
+🌆 Daytime                46645 commits       ██████████████░░░░░░░░░░░   55.60 % 
+🌃 Evening                17148 commits       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌙 Night                  4598 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14662 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Tuesday                  15060 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Wednesday                14879 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
-Thursday                 17063 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Friday                   13634 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Saturday                 7790 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Sunday                   2105 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Monday                   14356 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Tuesday                  14961 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                14733 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Thursday                 16898 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+Friday                   13403 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Saturday                 7502 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Sunday                   2040 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 
@@ -90,46 +90,46 @@ Sunday                   2105 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PHP                      8 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.01 % 
-JavaScript               4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Markdown                 4 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Vue                      3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-Bash                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+PHP                      8 hrs 1 min         ███████████░░░░░░░░░░░░░░   45.06 % 
+Vue                      3 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+JavaScript               1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Bash                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 
 🔥 Editors: 
-Claude Code              23 hrs 42 mins      █████████████████████████   98.70 % 
-PhpStorm                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Claude Code              17 hrs 29 mins      █████████████████████████   98.24 % 
+PhpStorm                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🐱‍💻 Projects: 
-726-home-care            17 hrs 21 mins      ██████████████████░░░░░░░   72.27 % 
-blueshuttlevan           4 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-renta-car                1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-optimum-homecare         34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-blueshuttlevan-old       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+726-home-care            11 hrs 36 mins      ████████████████░░░░░░░░░   65.23 % 
+blueshuttlevan           4 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+renta-car                1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+blueshuttlevan-old       9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+optimum-homecare         6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Mac                      24 hrs              █████████████████████████   100.00 % 
+Mac                      17 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 54 mins (99.57%)
+⏱ AI Coding Time: 17 hrs 42 mins (99.42%)
 
-✍️ 12,514 lines written by AI, 4 lines written by hand (99.97% AI-written)
+✍️ 11,239 lines written by AI, 4 lines written by hand (99.96% AI-written)
 
-🔤 1,087,311,871 Input Tokens, 2,645,416 Output Tokens
+🔤 606,559,982 Input Tokens, 1,789,195 Output Tokens
 
-💵 $3786.61 Estimated AI Cost This Week
+💵 $2501.73 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 244 AI Prompts
+🧠 14 AI Sessions, 189 AI Prompts
 
-Opus                     13,321 lines        █████████████████████████   100.00 % 
+Opus                     13,152 lines        █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📄 Detailed Prompter — average 921 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 1,070 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
@@ -151,5 +151,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 20:20:18 UTC
+ Last Updated on 30/07/2026 20:45:14 UTC
 <!--END_SECTION:waka-->
