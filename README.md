@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C870%20hrs%2020%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-443%20hrs%2052%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -62,21 +66,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16082 commits       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-🌆 Daytime                47931 commits       ██████████████░░░░░░░░░░░   55.73 % 
-🌃 Evening                17316 commits       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-🌙 Night                  4675 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+🌞 Morning                16158 commits       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+🌆 Daytime                48111 commits       ██████████████░░░░░░░░░░░   55.69 % 
+🌃 Evening                17380 commits       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+🌙 Night                  4747 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14749 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Tuesday                  15209 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Wednesday                15096 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Thursday                 17347 commits       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Friday                   13800 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Saturday                 7718 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Sunday                   2085 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Monday                   14833 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
+Tuesday                  15237 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+Wednesday                15164 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Thursday                 17381 commits       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Friday                   13882 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Saturday                 7794 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Sunday                   2105 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -147,5 +151,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:59:38 UTC
+ Last Updated on 07/08/2026 19:55:59 UTC
 <!--END_SECTION:waka-->
