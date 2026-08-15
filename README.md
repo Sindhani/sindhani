@@ -90,47 +90,47 @@ Sunday                   2128 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               3 hrs 48 mins       ████████░░░░░░░░░░░░░░░░░   31.05 % 
-PHP                      3 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.08 % 
-Vue                      2 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Markdown                 1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Prisma                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+TypeScript               3 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   39.26 % 
+PHP                      2 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.12 % 
+Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Vue                      47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Prisma                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 41 mins       ████████████████░░░░░░░░░   62.89 % 
-PhpStorm                 4 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   37.11 % 
+PhpStorm                 4 hrs 32 mins       █████████████░░░░░░░░░░░░   50.32 % 
+Claude Code              4 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.68 % 
 
 🐱‍💻 Projects: 
-langchain-learning       4 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.69 % 
-a1-home-care             4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
-blueshuttlevan           1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-optimum-homecare         1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Care-bridge              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+langchain-learning       4 hrs 36 mins       █████████████░░░░░░░░░░░░   51.11 % 
+a1-home-care             3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.50 % 
+optimum-homecare         1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+blueshuttlevan           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+blueshuttlevan-old       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 41 mins (70.97%)
+⏱ AI Coding Time: 5 hrs 28 mins (60.64%)
 
-✍️ 10,499 lines written by AI, 432 lines written by hand (96.05% AI-written)
+✍️ 3,083 lines written by AI, 432 lines written by hand (87.71% AI-written)
 
-🔤 268,873,311 Input Tokens, 656,465 Output Tokens
+🔤 135,117,728 Input Tokens, 350,305 Output Tokens
 
-💵 $1378.66 Estimated AI Cost This Week
+💵 $703.03 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 103 AI Prompts
+🧠 8 AI Sessions, 74 AI Prompts
 
-Opus                     10,652 lines        █████████████████████████   100.00 % 
+Opus                     3,173 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.05% of written lines came from AI
-📄 Detailed Prompter — average 1,404 characters per prompt
+🤖 AI-Driven — 87.71% of written lines came from AI
+📄 Detailed Prompter — average 1,104 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 4.58% of changed lines were hand-edited
+🚀 High AI Trust — 13.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -150,5 +150,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 20:03:22 UTC
+ Last Updated on 15/08/2026 19:19:41 UTC
 <!--END_SECTION:waka-->
