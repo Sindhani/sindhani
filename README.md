@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16488 commits       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+🌞 Morning                16490 commits       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 🌆 Daytime                48681 commits       ██████████████░░░░░░░░░░░   55.71 % 
 🌃 Evening                17427 commits       █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 🌙 Night                  4787 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
@@ -75,9 +75,9 @@ Here are some ideas to get you started:
 
 ```text
 Monday                   15021 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-Tuesday                  15384 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Tuesday                  15384 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 Wednesday                15321 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Thursday                 17577 commits       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Thursday                 17579 commits       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
 Friday                   14041 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
 Saturday                 7911 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
 Sunday                   2128 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
@@ -90,48 +90,48 @@ Sunday                   2128 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               6 hrs 6 mins        █████████████░░░░░░░░░░░░   52.77 % 
-PHP                      1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Markdown                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-Text                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Vue                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+TypeScript               3 hrs 20 mins       █████████████░░░░░░░░░░░░   53.48 % 
+Text                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Markdown                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+PHP                      36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-PhpStorm                 6 hrs 11 mins       █████████████░░░░░░░░░░░░   53.56 % 
-Claude Code              5 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.44 % 
+Claude Code              3 hrs 20 mins       █████████████░░░░░░░░░░░░   53.32 % 
+PhpStorm                 2 hrs 55 mins       ████████████░░░░░░░░░░░░░   46.68 % 
 
 🐱‍💻 Projects: 
-langchain-learning       7 hrs 24 mins       ████████████████░░░░░░░░░   64.05 % 
-a1-home-care             2 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   22.62 % 
-optimum-homecare         1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-heavenly-hands           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
-blueshuttlevan           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+langchain-learning       3 hrs 58 mins       ████████████████░░░░░░░░░   63.71 % 
+optimum-homecare         1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+a1-home-care             43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+heavenly-hands           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+blueshuttlevan-old       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 34 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 53 mins (59.6%)
+⏱ AI Coding Time: 4 hrs 21 mins (69.82%)
 
-✍️ 2,992 lines written by AI, 569 lines written by hand (84.02% AI-written)
+✍️ 2,300 lines written by AI, 218 lines written by hand (91.34% AI-written)
 
-🔤 101,904,316 Input Tokens, 400,941 Output Tokens
+🔤 2,148,094 Input Tokens, 213,875 Output Tokens
 
-💵 $546.11 Estimated AI Cost This Week
+💵 $42.92 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 85 AI Prompts
+🧠 11 AI Sessions, 46 AI Prompts
 
-Opus                     3,086 lines         █████████████████████████   100.00 % 
+Opus                     2,330 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.02% of written lines came from AI
-📄 Detailed Prompter — average 983 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 17.93% of changed lines were hand-edited
+🤖 AI-Driven — 91.34% of written lines came from AI
+📄 Detailed Prompter — average 1,361 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 9.65% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -151,5 +151,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:39:18 UTC
+ Last Updated on 20/08/2026 19:38:35 UTC
 <!--END_SECTION:waka-->
