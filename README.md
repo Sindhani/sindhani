@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C883%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C885%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-451%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-453%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -90,47 +90,48 @@ Sunday                   2128 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-TypeScript               2 hrs 33 mins       █████████████████░░░░░░░░   68.38 % 
-Text                     57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-PHP                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+TypeScript               2 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.26 % 
+PHP                      59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+Text                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Vue                      51 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-PhpStorm                 1 hr 54 mins        █████████████░░░░░░░░░░░░   50.73 % 
-Claude Code              1 hr 50 mins        ████████████░░░░░░░░░░░░░   49.27 % 
+Claude Code              3 hrs 40 mins       ████████████████░░░░░░░░░   64.04 % 
+PhpStorm                 2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.96 % 
 
 🐱‍💻 Projects: 
-langchain-learning       2 hrs 48 mins       ███████████████████░░░░░░   74.69 % 
-a1-home-care             33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-optimum-homecare         20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-heavenly-hands           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+langchain-learning       3 hrs               █████████████░░░░░░░░░░░░   52.40 % 
+optimum-homecare         2 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   36.82 % 
+a1-home-care             33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+heavenly-hands           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+blueshuttlevan-old       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      3 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (63.52%)
+⏱ AI Coding Time: 4 hrs 19 mins (75.62%)
 
-✍️ 65 lines written by AI, 157 lines written by hand (29.28% AI-written)
+✍️ 407 lines written by AI, 157 lines written by hand (72.16% AI-written)
 
-🔤 761,304 Input Tokens, 96,475 Output Tokens
+🔤 2,677,752 Input Tokens, 198,035 Output Tokens
 
-💵 $14.09 Estimated AI Cost This Week
+💵 $48.67 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 28 AI Prompts
+🧠 11 AI Sessions, 57 AI Prompts
 
-Opus                     69 lines            █████████████████████████   100.00 % 
+Opus                     441 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 29.28% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 72.83% of changed lines were hand-edited
+🤖 AI-Driven — 72.16% of written lines came from AI
+📝 Concise Prompter — average 229 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 29.55% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -150,5 +151,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:39:52 UTC
+ Last Updated on 22/08/2026 19:19:32 UTC
 <!--END_SECTION:waka-->
