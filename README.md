@@ -49,13 +49,13 @@ Here are some ideas to get you started:
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-453%20hrs%2041%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 727 Contributions in the Year 2026
+> 🏆 767 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -66,21 +66,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16305 commits       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-🌆 Daytime                48474 commits       ██████████████░░░░░░░░░░░   55.62 % 
-🌃 Evening                17553 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-🌙 Night                  4817 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+🌞 Morning                16566 commits       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+🌆 Daytime                48959 commits       ██████████████░░░░░░░░░░░   55.65 % 
+🌃 Evening                17595 commits       █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+🌙 Night                  4854 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   14937 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Tuesday                  15415 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-Wednesday                15243 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Thursday                 17484 commits       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Friday                   14011 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-Saturday                 7895 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Sunday                   2164 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+Monday                   15090 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Tuesday                  15513 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+Wednesday                15366 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Thursday                 17692 commits       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+Friday                   14127 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Saturday                 8000 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Sunday                   2186 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 
 
@@ -90,45 +90,43 @@ Sunday                   2164 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PHP                      5 hrs 50 mins       ███████████████░░░░░░░░░░   59.67 % 
-Vue                      3 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   37.53 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+PHP                      54 mins             ████████████░░░░░░░░░░░░░   46.20 % 
+Vue                      51 mins             ███████████░░░░░░░░░░░░░░   43.61 % 
+TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 13 mins       ████████████████████████░   94.40 % 
-Codex Vscode             23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-PhpStorm                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Claude Code              1 hr 49 mins        ███████████████████████░░   92.03 % 
+PhpStorm                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 
 🐱‍💻 Projects: 
-optimum-homecare         9 hrs 34 mins       ████████████████████████░   97.90 % 
-langchain-learning       12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-blueshuttlevan-old       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+optimum-homecare         1 hr 46 mins        ██████████████████████░░░   89.62 % 
+langchain-learning       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+blueshuttlevan-old       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 💻 Operating System: 
-Mac                      9 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 44 mins (99.7%)
+⏱ AI Coding Time: 1 hr 57 mins (98.54%)
 
-✍️ 1,755 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 342 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,751,720 Input Tokens, 604,105 Output Tokens
+🔤 1,916,448 Input Tokens, 101,560 Output Tokens
 
-💵 $240.05 Estimated AI Cost This Week
+💵 $34.58 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 136 AI Prompts
+🧠 3 AI Sessions, 29 AI Prompts
 
-Opus                     1,914 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     372 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 309 characters per prompt
+📝 Concise Prompter — average 134 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -150,5 +148,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2026 20:55:47 UTC
+ Last Updated on 28/08/2026 02:36:32 UTC
 <!--END_SECTION:waka-->
