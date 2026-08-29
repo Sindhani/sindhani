@@ -90,45 +90,22 @@ Sunday                   2186 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PHP                      54 mins             ████████████░░░░░░░░░░░░░   46.20 % 
-Vue                      51 mins             ███████████░░░░░░░░░░░░░░   43.61 % 
-TypeScript               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 49 mins        ███████████████████████░░   92.03 % 
-PhpStorm                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-optimum-homecare         1 hr 46 mins        ██████████████████████░░░   89.62 % 
-langchain-learning       12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-blueshuttlevan-old       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 58 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (98.54%)
-
-✍️ 342 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,916,448 Input Tokens, 101,560 Output Tokens
-
-💵 $34.58 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 29 AI Prompts
-
-Opus                     372 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 134 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
@@ -148,5 +125,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:36:32 UTC
+ Last Updated on 29/08/2026 02:11:18 UTC
 <!--END_SECTION:waka-->
