@@ -66,21 +66,21 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16623 commits       █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-🌆 Daytime                49358 commits       ██████████████░░░░░░░░░░░   55.69 % 
-🌃 Evening                17788 commits       █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-🌙 Night                  4859 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+🌞 Morning                16642 commits       █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
+🌆 Daytime                49668 commits       ██████████████░░░░░░░░░░░   55.79 % 
+🌃 Evening                17906 commits       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
+🌙 Night                  4806 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   15206 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Tuesday                  15650 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Wednesday                15542 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-Thursday                 17851 commits       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-Friday                   14173 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Saturday                 8014 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Sunday                   2192 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Monday                   15277 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Tuesday                  15810 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Wednesday                15673 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+Thursday                 17948 commits       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Friday                   14192 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Saturday                 7949 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Sunday                   2173 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -90,22 +90,45 @@ Sunday                   2192 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue                      11 hrs 48 mins      ████████████░░░░░░░░░░░░░   48.32 % 
+PHP                      9 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.14 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Text                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              24 hrs 26 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yhp-upgraded             24 hrs 13 mins      █████████████████████████   99.10 % 
+optimum-homecare         13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      24 hrs 26 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 24 hrs 26 mins (100.0%)
+
+✍️ 2,996 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 22,683,729 Input Tokens, 3,642,939 Output Tokens
+
+💵 $563.49 Estimated AI Cost This Week
+
+🧠 154 AI Sessions, 511 AI Prompts
+
+Sonnet                   1,507 lines         ████████████░░░░░░░░░░░░░   48.80 % 
+Fable                    816 lines           ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Opus                     765 lines           ██████░░░░░░░░░░░░░░░░░░░   24.77 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 13,215 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,5 +148,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:59:17 UTC
+ Last Updated on 01/10/2026 23:22:35 UTC
 <!--END_SECTION:waka-->
