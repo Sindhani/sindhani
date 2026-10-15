@@ -66,20 +66,20 @@ Here are some ideas to get you started:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16839 commits       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-🌆 Daytime                51105 commits       ██████████████░░░░░░░░░░░   55.88 % 
-🌃 Evening                18582 commits       █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-🌙 Night                  4925 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+🌞 Morning                16841 commits       █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
+🌆 Daytime                51133 commits       ██████████████░░░░░░░░░░░   55.88 % 
+🌃 Evening                18605 commits       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+🌙 Night                  4925 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   15700 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Tuesday                  16314 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Wednesday                16186 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Thursday                 18320 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-Friday                   14651 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Saturday                 8074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Monday                   15700 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Tuesday                  16314 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Wednesday                16186 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
+Thursday                 18373 commits       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Friday                   14651 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+Saturday                 8074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
 Sunday                   2206 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
@@ -90,46 +90,45 @@ Sunday                   2206 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PHP                      2 hrs 34 mins       ████████████░░░░░░░░░░░░░   48.76 % 
-Vue                      2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.55 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-JavaScript               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Vue                      1 hr 10 mins        ██████████████████████░░░   88.58 % 
+PHP                      8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Blade Template           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 16 mins       █████████████████████████   99.94 % 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Claude Code              1 hr 18 mins        █████████████████████████   99.77 % 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-yhp-upgraded             4 hrs 49 mins       ███████████████████████░░   91.16 % 
-a1-home-care             28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-optimum-homecare         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+yhp-upgraded             1 hr 19 mins        █████████████████████████   99.99 % 
+optimum-homecare         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 17 mins (100.0%)
+⏱ AI Coding Time: 1 hr 19 mins (100.0%)
 
-✍️ 862 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,971,970 Input Tokens, 779,603 Output Tokens
+🔤 1,080,562 Input Tokens, 195,747 Output Tokens
 
-💵 $66.27 Estimated AI Cost This Week
+💵 $15.86 Estimated AI Cost This Week
 
-🧠 45 AI Sessions, 142 AI Prompts
+🧠 10 AI Sessions, 24 AI Prompts
 
-Sonnet                   1,023 lines         █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,510 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 6,835 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -149,5 +148,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 22:21:59 UTC
+ Last Updated on 15/10/2026 22:07:41 UTC
 <!--END_SECTION:waka-->
