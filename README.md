@@ -90,47 +90,47 @@ Sunday                   2206 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PHP                      4 hrs 20 mins       █████████████░░░░░░░░░░░░   50.37 % 
-Vue                      2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.22 % 
-JavaScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Blade Template           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+PHP                      33 mins             ███████░░░░░░░░░░░░░░░░░░   28.63 % 
+JavaScript               26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Vue                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Blade Template           12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 4 mins        ███████████████████████░░   93.66 % 
-Codex Vscode             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-PhpStorm                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Claude Code              1 hr 47 mins        ███████████████████████░░   91.94 % 
+PhpStorm                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Codex Vscode             4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 🐱‍💻 Projects: 
-yhp-upgraded             7 hrs 49 mins       ███████████████████████░░   90.77 % 
-a1-home-care             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-dienstleisto-api         21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+yhp-upgraded             1 hr 8 mins         ███████████████░░░░░░░░░░   59.05 % 
+a1-home-care             26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+dienstleisto-api         21 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
 
 💻 Operating System: 
-Mac                      8 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 33 mins (99.31%)
+⏱ AI Coding Time: 1 hr 53 mins (96.94%)
 
-✍️ 2,586 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,617 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,324,733 Input Tokens, 962,509 Output Tokens
+🔤 3,369,648 Input Tokens, 193,500 Output Tokens
 
-💵 $168.58 Estimated AI Cost This Week
+💵 $63.56 Estimated AI Cost This Week
 
-🧠 101 AI Sessions, 276 AI Prompts
+🧠 9 AI Sessions, 29 AI Prompts
 
-Fable                    1,421 lines         █████████████░░░░░░░░░░░░   52.55 % 
-Opus                     1,283 lines         ████████████░░░░░░░░░░░░░   47.45 % 
+Opus                     1,283 lines         ████████████████████░░░░░   78.28 % 
+Fable                    356 lines           █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,482 characters per prompt
+📝 Concise Prompter — average 353 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -152,5 +152,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 23/10/2026 21:57:20 UTC
+ Last Updated on 24/10/2026 21:26:22 UTC
 <!--END_SECTION:waka-->
