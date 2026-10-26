@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 815 Contributions in the Year 2026
+> 🏆 821 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -67,14 +67,14 @@ Here are some ideas to get you started:
 
 ```text
 🌞 Morning                16865 commits       █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
-🌆 Daytime                51254 commits       ██████████████░░░░░░░░░░░   55.90 % 
-🌃 Evening                18648 commits       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+🌆 Daytime                51265 commits       ██████████████░░░░░░░░░░░   55.90 % 
+🌃 Evening                18654 commits       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 🌙 Night                  4925 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   15700 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Monday                   15717 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 Tuesday                  16366 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
 Wednesday                16211 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
 Thursday                 18385 commits       █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
@@ -90,46 +90,46 @@ Sunday                   2206 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Karachi
 
 💬 Programming Languages: 
-PHP                      28 mins             █████████░░░░░░░░░░░░░░░░   35.56 % 
-Vue                      18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Blade Template           12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-JavaScript               10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Markdown                 43 mins             █████████░░░░░░░░░░░░░░░░   35.42 % 
+PHP                      28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
+Vue                      18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+Blade Template           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JavaScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 Editors: 
-Claude Code              1 hr 16 mins        ███████████████████████░░   93.72 % 
-PhpStorm                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Claude Code              1 hr 57 mins        ████████████████████████░   95.74 % 
+PhpStorm                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 
 🐱‍💻 Projects: 
-yhp-upgraded             42 mins             █████████████░░░░░░░░░░░░   52.68 % 
-a1-home-care             26 mins             ████████░░░░░░░░░░░░░░░░░   32.74 % 
-dienstleisto-api         11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+yhp-upgraded             1 hr 24 mins        █████████████████░░░░░░░░   68.58 % 
+a1-home-care             26 mins             █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+dienstleisto-api         11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 💻 Operating System: 
-Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (95.61%)
+⏱ AI Coding Time: 1 hr 59 mins (97.09%)
 
-✍️ 370 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 606 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,162,910 Input Tokens, 123,433 Output Tokens
+🔤 2,749,529 Input Tokens, 212,214 Output Tokens
 
-💵 $45.92 Estimated AI Cost This Week
+💵 $54.56 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 18 AI Prompts
+🧠 5 AI Sessions, 23 AI Prompts
 
-Opus                     287 lines           ██████████████████░░░░░░░   73.21 % 
-Fable                    105 lines           ███████░░░░░░░░░░░░░░░░░░   26.79 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     287 lines           ███████████░░░░░░░░░░░░░░   45.70 % 
+Sonnet                   236 lines           █████████░░░░░░░░░░░░░░░░   37.58 % 
+Fable                    105 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 180 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 190 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -150,5 +150,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2026 21:26:49 UTC
+ Last Updated on 26/10/2026 23:14:44 UTC
 <!--END_SECTION:waka-->
