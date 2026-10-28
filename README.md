@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 822 Contributions in the Year 2026
+> 🏆 837 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -63,6 +63,79 @@ Here are some ideas to get you started:
  > 
 > 🔑 54 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16842 commits       █████░░░░░░░░░░░░░░░░░░░░   18.36 % 
+🌆 Daytime                51259 commits       ██████████████░░░░░░░░░░░   55.89 % 
+🌃 Evening                18691 commits       █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌙 Night                  4925 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   15692 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Tuesday                  16409 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
+Wednesday                16247 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Thursday                 18367 commits       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Friday                   14720 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Saturday                 8076 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Sunday                   2206 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Karachi
+
+💬 Programming Languages: 
+Markdown                 3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.86 % 
+PHP                      2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+JavaScript               39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Vue                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+
+🔥 Editors: 
+Claude Code              7 hrs 26 mins       █████████████████████████   98.36 % 
+Codex Vscode             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🐱‍💻 Projects: 
+yhp-upgraded             4 hrs 30 mins       ███████████████░░░░░░░░░░   59.75 % 
+optimum-homecare         1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   25.07 % 
+a1-home-care             38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+devoted-care             22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+how-x20                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+
+💻 Operating System: 
+Mac                      7 hrs 33 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 33 mins (100.0%)
+
+✍️ 2,770 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 8,186,870 Input Tokens, 873,818 Output Tokens
+
+💵 $105.20 Estimated AI Cost This Week
+
+🧠 50 AI Sessions, 152 AI Prompts
+
+Opus                     1,559 lines         ██████████████░░░░░░░░░░░   56.28 % 
+Sonnet                   1,211 lines         ███████████░░░░░░░░░░░░░░   43.72 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 6,078 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -80,5 +153,5 @@ HTML                     5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Sindhani/Sindhani/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2026 22:57:59 UTC
+ Last Updated on 28/10/2026 23:11:19 UTC
 <!--END_SECTION:waka-->
